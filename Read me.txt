@@ -1,0 +1,8 @@
+Contents 
+
+1. Final Report is in 'Final 603 report' file.
+2. Codes in R program resides in 'R codes' file.
+3. Input dataset is 'ToyotaCorolla' file
+4. Standardized dataset is 'ToyotaCorolla-1' file
+5. Final Preprocessed input datset is 'car' file
+6. Results are stored in 'car results' file 
